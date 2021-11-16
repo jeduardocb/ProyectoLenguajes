@@ -1,15 +1,3 @@
-para cada proyecto 4 numero de integrantes 
-1 de esos debe de ser solution architect
-no puedes estar en 2 proyectos al mismo tiempo 
-debes de tener 2 developers juniors
-debes de tener 1 developer senior 
-cada empleado necesita experiencia  en x proyectos 
-cada empleado tiene un puesto 
-
-
-
-
-
 the employee has an id  and a name
 each employee has 1 position
 the employee has different skills
@@ -17,5 +5,15 @@ the project has a name and an id
 the employees has different expperiences with differente projects
 the skills for the projects 
 and the employee can be busy or free
+
+
+para cada proyecto 3 numero de integrantes 
+1 de esos debe de ser solution architect 
+debes de tener 1 developers juniors
+debes de tener 1 developer senior 
+no puedes estar en 2 proyectos al mismo tiempo
+cada empleado necesita experiencia  en x proyectos 
+cada empleado tiene un puesto 
+
 
 
