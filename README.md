@@ -8,15 +8,15 @@
 The present project makes usage of the logic programming paradigm to be able to simulate a staff assignment program based on project requirements and staff availability, role, and skills. To make the solution more user friendly I decided to connect the logic implemented in prolog with Java for the graphical user interface, using the JPL library.
 
 To assign employees to a project the program follows these rules:
-•	The total number of members for each project is 3.
-•	At least one member must be Solution Architect.
-•	At least one member must be Developer Senior.
-•	At least one member must be Developer Junior.
-•	The Solution Architect must satisfy 50% of the requirements of the project. 
-•	The Developer Senior must satisfy 33% of the requirements of the project.
-•	The Developer Junior must satisfy 20% of the requirements of the project. 
-•	All members must be available.
-•	If no one in any position satisfy with the percentage of the requirements, the program returns all the employees in this position who are available.
+- The total number of members for each project is 3.
+- At least one member must be Solution Architect.
+- At least one member must be Developer Senior.
+- At least one member must be Developer Junior.
+- The Solution Architect must satisfy 50% of the requirements of the project. 
+- The Developer Senior must satisfy 33% of the requirements of the project.
+- The Developer Junior must satisfy 20% of the requirements of the project. 
+- All members must be available.
+- If no one in any position satisfy with the percentage of the requirements, the program returns all the employees in this position who are available.
 
 
 ### Setup.
